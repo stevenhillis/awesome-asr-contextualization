@@ -24,12 +24,10 @@ The purpose of contextualizating ASR outputs is to bias the results towards toke
 
 To add items to this page, open up a pull request. ([contributing guide](CONTRIBUTING.md))
 
-## Publications
-
-### Deep Contextualization
+## Deep Contextualization
 End to end approaches, integrated neural modules
 
-#### Contextual LAS (CLAS)
+### Contextual LAS (CLAS)
 
 * [Deep context: end-to-end contextual speech recognition](https://arxiv.org/pdf/1808.02480.pdf)
 * [Contextual Speech Recognition with Difficult Negative Training Examples](https://arxiv.org/pdf/1810.12170.pdf)
@@ -37,45 +35,45 @@ End to end approaches, integrated neural modules
 * [Phoneme-Based Contextualization for Cross-Lingual Speech Recognition in End-to-End Models](https://arxiv.org/pdf/1906.09292.pdf)
 * [Joint Grapheme and Phoneme Embeddings for Contextual End-to-End ASR](https://x-lance.sjtu.edu.cn/papers/2019/zhc00-chen-is2019.pdf)
 
-#### Contextual Transducer ("RNNTs")
+### Contextual Transducer ("RNNTs")
 
 * [Contextual RNN-T For Open Domain ASR](https://arxiv.org/pdf/2006.03411.pdf)
 * [Multistate Encoding with End-To-End Speech RNN Transducer Network](https://ieeexplore.ieee.org/document/9054287)
 * [Deep Shallow Fusion for RNN-T Personalization](https://arxiv.org/pdf/2011.07754.pdf)
 * [Contextualized Streaming End-to-End Speech Recognition with Trie-Based Deep Biasing and Shallow Fusion](https://arxiv.org/pdf/2104.02194.pdf)
 
-#### 2021
+### 2021
 
 * [Tree-constrained Pointer Generator for End-to-end Contextual Speech Recognition](https://arxiv.org/abs/2109.00627)
 * [Fast Contextual Adaptation with Neural Associative Memory for On-Device Personalized Speech Recognition](https://arxiv.org/pdf/2110.02220.pdf)
 
-### External Contextualization
+## External Contextualization
 External modules such as Language Models, Error Correction models, and weighted FSTs applied to hypotheses of E2E ASR systems
 
-#### 2012
+### 2012
 
 * [A Specialized WFST Approach for Class Models and Dynamic Vocabulary](https://www.isca-speech.org/archive_v0/archive_papers/interspeech_2012/i12_1075.pdf)
 
-#### 2015
+### 2015
 
 * [Composition-based on-the-fly rescoring for salient n-gram biasing](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43816.pdf)
 * [Improved recognition of contact names in voice commands](https://ieeexplore.ieee.org/document/7178957)
 
-#### 2016
+### 2016
 
 * [Personalized Speech recognition on mobile devices] (https://arxiv.org/pdf/1603.03185.pdf&xid=17259,15700022,15700186,15700190,15700248.pdf)
 
-#### 2017
+### 2017
 
 * [Keyword spotting for Google assistant using contextual speech recognition](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/be2559f953dce47e69f4d06692df1184719c4d4b.pdf)
 
-#### 2018
+### 2018
 
 * [Contextual speech recognition in end-to-end neural network systems using beam search](https://www.isca-speech.org/archive_v0/Interspeech_2018/pdfs/2416.pdf)
 * [Recurrent Neural Network Language Model Adaptation for Conversational Speech Recognition](https://www.danielpovey.com/files/2018_interspeech_lm_adapt.pdf)
 * [End-to-end contextual speech recognition using class language models and a token passing decoder](https://arxiv.org/pdf/1812.02142.pdf)
 
-#### 2019
+### 2019
 
 * [Contextual Recovery of Out-of-Lattice Named Entities in Automatic Speech Recognition}(https://www.isca-speech.org/archive/pdfs/interspeech_2019/serrino19_interspeech.pdf)
 * [Shallow-Fusion End-to-End Contextual Biasing](https://www.isca-speech.org/archive_v0/Interspeech_2019/pdfs/1209.pdf)
@@ -94,7 +92,7 @@ External modules such as Language Models, Error Correction models, and weighted 
 * [Hierarchical Multi-Stage Word-to-Grapheme Named Entity Corrector for Automatic Speech Recognition](https://www.isca-speech.org/archive_v0/Interspeech_2020/pdfs/3174.pdf)
 * [Improving accuracy of rare words for RNN-Transducer through unigram shallow fusion](https://arxiv.org/pdf/2012.00133.pdf)
 
-#### 2021
+### 2021
 
 * [Domain-Aware Neural Language Models for Speech Recognition](https://arxiv.org/pdf/2101.03229.pdf)
 * [Personalization Strategies for End-to-End Speech Recognition Systems](https://arxiv.org/pdf/2102.07739.pdf)
