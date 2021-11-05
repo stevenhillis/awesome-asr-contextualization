@@ -59,7 +59,7 @@ External modules such as Language Models, Error Correction models, and weighted 
 
 ### 2016
 
-* [Personalized Speech recognition on mobile devices] (https://arxiv.org/pdf/1603.03185.pdf&xid=17259,15700022,15700186,15700190,15700248.pdf)
+* [Personalized Speech recognition on mobile devices](https://arxiv.org/pdf/1603.03185.pdf&xid=17259,15700022,15700186,15700190,15700248.pdf)
 
 ### 2017
 
@@ -73,7 +73,7 @@ External modules such as Language Models, Error Correction models, and weighted 
 
 ### 2019
 
-* [Contextual Recovery of Out-of-Lattice Named Entities in Automatic Speech Recognition}(https://www.isca-speech.org/archive/pdfs/interspeech_2019/serrino19_interspeech.pdf)
+* [Contextual Recovery of Out-of-Lattice Named Entities in Automatic Speech Recognition](https://www.isca-speech.org/archive/pdfs/interspeech_2019/serrino19_interspeech.pdf)
 * [Shallow-Fusion End-to-End Contextual Biasing](https://www.isca-speech.org/archive_v0/Interspeech_2019/pdfs/1209.pdf)
 * [Personalization of End-to-End Speech Recognition on Mobile Devices for Named Entities](https://arxiv.org/pdf/1912.09251.pdf)
 
