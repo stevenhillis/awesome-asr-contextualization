@@ -1,5 +1,11 @@
 # Awesome Contextualization of E2E ASR [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Contribution](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/stevenhillis/awesome-asr-contextualization/blob/main/CONTRIBUTING.md)
 
+> Curated list of awesome papers on Contextualization of E2E ASR. 
+
+The purpose of contextualizating ASR outputs is to bias the results towards tokens, generally proper nouns or rare words, which are thought likely to be produced given the context of an audio signal. Correct transcription of these tokens might have an outsized impact on the value of the output, and incorrect transcription might otherwise be likely.
+
+To add items to this page, open up a pull request. ([contributing guide](CONTRIBUTING.md))
+
 ## Contents
 
 * [Deep Contextualization](#Deep-Contextualization)
@@ -15,14 +21,6 @@
   * [2019](#2019)
   * [2020](#2020)
   * [2021](#2021)
-
-## Overview
-
-This is a curated list of awesome papers on Contextualization of E2E ASR. <!--, paired with a short description of the primary contribution. -->
-
-The purpose of contextualizating ASR outputs is to bias the results towards tokens, generally proper nouns or rare words, which are thought likely to be produced given the context of an audio signal. Correct transcription of these tokens might have an outsized impact on the value of the output, and incorrect transcription might otherwise be likely.
-
-To add items to this page, open up a pull request. ([contributing guide](CONTRIBUTING.md))
 
 ## Deep Contextualization
 End to end approaches, integrated neural modules
