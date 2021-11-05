@@ -1,14 +1,20 @@
 # Awesome Contextualization of E2E ASR [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Contribution](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/stevenhillis/awesome-asr-contextualization/blob/main/CONTRIBUTING.md)
 
-## Table of contents
+## Contents
 
-* [Overview](#Overview)
-* [Publications](#Publications)
-  * [Deep Contextualization](#Deep-Contextualization)
-    * [Contextual LAS](#Contextual-LAS-(CLAS))
-    * [Contextual Transducer](#Contextual-Transducer-("RNNTs"))
-    * [2021](#2021)
-  * [External Contextualization](#External-Contextualization)
+* [Deep Contextualization](#Deep-Contextualization)
+  * [Contextual LAS](#Contextual-LAS-(CLAS))
+  * [Contextual Transducer](#Contextual-Transducer-("RNNTs"))
+  * [2021](#2021)
+* [External Contextualization](#External-Contextualization)
+  * [2012](#2012)
+  * [2015](#2015)
+  * [2016](#2016)
+  * [2017](#2017)
+  * [2018](#2018)
+  * [2019](#2019)
+  * [2020](#2020)
+  * [2021](#2021)
 
 ## Overview
 
