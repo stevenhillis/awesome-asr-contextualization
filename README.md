@@ -2,7 +2,7 @@
 
 > Curated list of awesome papers on Contextualization of E2E ASR. 
 
-The purpose of contextualizating ASR outputs is to bias the results towards tokens, generally proper nouns or rare words, which are thought likely to be produced given the context of an audio signal. Correct transcription of these tokens might have an outsized impact on the value of the output, and incorrect transcription might otherwise be likely.
+The purpose of contextualizating ASR outputs is to bias the results towards tokens, generally proper nouns or rare words or jargon, which are thought likely to be produced given the context of an audio signal. Correct transcription of these tokens might have an outsized impact on the value of the output, and incorrect transcription might otherwise be likely.
 
 To add items to this page, open up a pull request. ([contributing guide](CONTRIBUTING.md))
 
