@@ -39,6 +39,7 @@ End to end approaches, integrated neural modules
 * [Multistate Encoding with End-To-End Speech RNN Transducer Network](https://ieeexplore.ieee.org/document/9054287)
 * [Deep Shallow Fusion for RNN-T Personalization](https://arxiv.org/pdf/2011.07754.pdf)
 * [Contextualized Streaming End-to-End Speech Recognition with Trie-Based Deep Biasing and Shallow Fusion](https://arxiv.org/pdf/2104.02194.pdf)
+* [Context-Aware Transformer Transducer for Speech Recognition](https://arxiv.org/pdf/2111.03250.pdf)
 
 ### 2021
 
