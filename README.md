@@ -12,6 +12,7 @@ To add items to this page, open up a pull request according to our [contributing
   * [Contextual LAS](#Contextual-LAS-(CLAS))
   * [Contextual Transducer](#Contextual-Transducer-("RNNTs"))
   * [2021](#2021)
+  * [2022](#2022)
 * [External Contextualization](#External-Contextualization)
   * [2012](#2012)
   * [2015](#2015)
@@ -45,6 +46,10 @@ End to end approaches, integrated neural modules
 
 * [Tree-constrained Pointer Generator for End-to-end Contextual Speech Recognition](https://arxiv.org/abs/2109.00627)
 * [Fast Contextual Adaptation with Neural Associative Memory for On-Device Personalized Speech Recognition](https://arxiv.org/pdf/2110.02220.pdf)
+
+### 2022
+
+* [Improving End-to-End Contextual Speech Recognition with Fine-grained Contextual Knowledge Selection](https://arxiv.org/abs/2201.12806)
 
 ## External Contextualization
 External modules such as Language Models, Error Correction models, and weighted FSTs applied to hypotheses of E2E ASR systems
