@@ -51,6 +51,7 @@ End to end approaches, integrated neural modules
 
 * [Improving End-to-End Contextual Speech Recognition with Fine-grained Contextual Knowledge Selection](https://arxiv.org/pdf/2201.12806.pdf)
 * [End-to-end contextual asr based on posterior distribution adaptation for hybrid ctc/attention system](https://arxiv.org/pdf/2202.09003.pdf)
+* [Towards Contextual Spelling Correction for Customization of End-to-end Speech Recognition Systems](https://arxiv.org/pdf/2203.00888.pdf)
 
 ## External Contextualization
 External modules such as Language Models, Error Correction models, and weighted FSTs applied to hypotheses of E2E ASR systems
