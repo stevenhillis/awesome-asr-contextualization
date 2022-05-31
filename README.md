@@ -41,6 +41,7 @@ End to end approaches, integrated neural modules
 * [Deep Shallow Fusion for RNN-T Personalization](https://arxiv.org/pdf/2011.07754.pdf)
 * [Contextualized Streaming End-to-End Speech Recognition with Trie-Based Deep Biasing and Shallow Fusion](https://arxiv.org/pdf/2104.02194.pdf)
 * [Context-Aware Transformer Transducer for Speech Recognition](https://arxiv.org/pdf/2111.03250.pdf)
+* [Contextual Adapters for Personalized Speech Recognition in Neural Transducers](https://arxiv.org/pdf/2205.13660.pdf)
 
 ### 2021
 
