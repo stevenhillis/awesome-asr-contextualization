@@ -22,6 +22,7 @@ To add items to this page, open up a pull request according to our [contributing
   * [2019](#2019)
   * [2020](#2020)
   * [2021](#2021)
+  * [2022](#2022)
 
 ## Deep Contextualization
 End to end approaches, integrated neural modules
@@ -105,3 +106,7 @@ External modules such as Language Models, Error Correction models, and weighted 
 * [Personalization Strategies for End-to-End Speech Recognition Systems](https://arxiv.org/pdf/2102.07739.pdf)
 * [A Light-weight contextual spelling correction model for customizing transducer-based speech recognition systems](https://arxiv.org/pdf/2108.07493.pdf)
 * [Spell my name: keyword boosted speech recognition](https://arxiv.org/pdf/2110.02791.pdf)
+
+### 2022
+
+* [Improving Contextual Recognition of Rare Words with an Alternate Spelling Prediction Model](https://arxiv.org/pdf/2209.01250.pdf)
