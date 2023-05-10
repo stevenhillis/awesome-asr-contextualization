@@ -44,6 +44,7 @@ End to end approaches, integrated neural modules
 * [Context-Aware Transformer Transducer for Speech Recognition](https://arxiv.org/pdf/2111.03250.pdf)
 * [Contextual Adapters for Personalized Speech Recognition in Neural Transducers](https://arxiv.org/pdf/2205.13660.pdf)
 * [Two Stage Contextual Word Filtering for Context bias in Unified Streaming and Non-streaming Transducer](https://arxiv.org/pdf/2301.06735.pdf)
+* [Robust Acoustic and Semantic Contextual Biasing in Neural Transducers for Speech Recognition](https://arxiv.org/pdf/2305.05271.pdf)
 
 ### 2021
 
