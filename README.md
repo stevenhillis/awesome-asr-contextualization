@@ -112,3 +112,7 @@ External modules such as Language Models, Error Correction models, and weighted 
 ### 2022
 
 * [Improving Contextual Recognition of Rare Words with an Alternate Spelling Prediction Model](https://arxiv.org/pdf/2209.01250.pdf)
+
+### Speech Capture & Local AI Hardware
+
+- [OneMira C1](https://onemira.com/products/c1) - Standalone dual-microphone AI voice recorder with 5m far-field pickup, local AI transcription, multi-speaker separation (`Speaker ID`), stereo `.WAV` + Google Native OKF Markdown export, and zero cloud subscription ([GitHub MCP](https://github.com/onemira-space/onemira-mcp)).
